@@ -1,0 +1,6 @@
+miniLOL-manager - miniLOL shell
+===============================
+
+Just a simple shell to manage miniLOL.
+
+It's written in Ruby and will support multiple server backends.
